@@ -22,7 +22,7 @@ It is not useful. It is not faster, not more readable, not better than the norma
 
 ### Three languages, one tube
 
-The bitmap font ([Galmuri](https://github.com/quiple/galmuri)) covers Latin, Hangul and Chinese characters, so every language gets the same chunky pixel look.
+The bitmap font ([Galmuri](https://github.com/quiple/galmuri)) covers Latin, Hangul, kana and about 6,500 Han characters, so English and Korean get the full chunky pixel look. Han characters that are missing from it, such as some Simplified Chinese ones (e.g. 显, 对, 话), fall back to the system font.
 
 | English | 한국어 | 中文 |
 |:--:|:--:|:--:|
