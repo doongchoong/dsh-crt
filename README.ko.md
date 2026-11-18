@@ -63,7 +63,19 @@ CRT 뷰는 Chat 뷰의 흐름을 터미널처럼 펼칩니다.
 
 요구 사항: dsh `0.2.2-rc.1` 이상, Node.js 24.9 이상.
 
-`dsh-crt`의 **부모 폴더에서** 실행합니다. `add`의 상대 경로는 명령을 실행한 위치 기준입니다.
+### 가장 쉬운 방법: GitHub 주소 붙여넣기
+
+dsh 웹의 플러그인 설치 창(**Add plugin**)에 아래 주소를 붙여넣고 **Install**을 누르면 끝입니다.
+
+```text
+https://github.com/doongchoong/dsh-crt
+```
+
+git 명령은 필요 없습니다. 이후 세션을 열고 **CRT** 탭을 누르세요.
+
+### 명령줄로 설치
+
+플러그인을 받을 폴더에서 실행합니다. `add`의 상대 경로는 명령을 실행한 위치 기준입니다.
 
 ```bash
 git clone https://github.com/doongchoong/dsh-crt.git

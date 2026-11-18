@@ -63,7 +63,19 @@ A spinner shows while the model is thinking, and a blinking cursor while it answ
 
 Requirements: dsh `0.2.2-rc.1` or newer, Node.js 24.9 or newer.
 
-Run this in the **parent folder** of `dsh-crt`. The path given to `add` is relative to where you run the command.
+### Easiest: paste the GitHub address
+
+In dsh web, open the plugin install dialog (**Add plugin**) and paste this address, then press **Install**:
+
+```text
+https://github.com/doongchoong/dsh-crt
+```
+
+No git commands needed. Then open a session and press the **CRT** tab.
+
+### From the command line
+
+Run this in the folder where you want the plugin cloned. The path given to `add` is relative to where you run the command.
 
 ```bash
 git clone https://github.com/doongchoong/dsh-crt.git

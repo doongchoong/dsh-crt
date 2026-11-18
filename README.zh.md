@@ -63,7 +63,19 @@ CRT 视图沿用 Chat 视图的内容，像终端一样排布：
 
 要求：dsh `0.2.2-rc.1` 或更高版本，Node.js 24.9 或更高版本。
 
-请在 `dsh-crt` 的**上一级目录**中运行。`add` 的相对路径以运行命令的位置为准。
+### 最简单：粘贴 GitHub 地址
+
+在 dsh 网页的插件安装窗口（**Add plugin**）中粘贴下面的地址，然后点击 **Install** 即可：
+
+```text
+https://github.com/doongchoong/dsh-crt
+```
+
+不需要任何 git 命令。之后打开会话，点击 **CRT** 标签。
+
+### 命令行安装
+
+在想要存放插件的目录中运行。`add` 的相对路径以运行命令的位置为准。
 
 ```bash
 git clone https://github.com/doongchoong/dsh-crt.git
