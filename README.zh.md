@@ -8,7 +8,7 @@
 
 [English](README.md) · [한국어](README.ko.md) · **中文**
 
-![dsh-crt 在 DeepSeek Harness 网页界面中运行的 dsh-crt](docs/screenshots/screenshot.png)
+![在 DeepSeek Harness 网页界面中运行的 dsh-crt](docs/screenshots/screenshot.png)
 
 </div>
 

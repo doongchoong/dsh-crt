@@ -8,7 +8,7 @@
 
 [English](README.md) · **한국어** · [中文](README.zh.md)
 
-![dsh-crt DeepSeek Harness 웹 UI 안에서 동작하는 dsh-crt](docs/screenshots/screenshot.png)
+![DeepSeek Harness 웹 UI 안에서 동작하는 dsh-crt](docs/screenshots/screenshot.png)
 
 </div>
 
