@@ -1,0 +1,7 @@
+# dsh-crt bundle layer: registers the (empty) host half into a profile.
+# The browser half (lib/client.js) is discovered by the module loader from
+# package.json `exports["./client"]` + `dsh.client`; it needs no row here.
+# `name` is a package name resolved through the profile's node_modules.
+- insert:
+    - id: dsh-crt
+      name: dsh-crt
