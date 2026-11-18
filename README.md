@@ -8,7 +8,7 @@
 
 **English** · [한국어](README.ko.md) · [中文](README.zh.md)
 
-![green theme](docs/screenshots/en-green.png)
+![dsh-crt running inside the DeepSeek Harness web UI](docs/screenshots/screenshot.png)
 
 </div>
 
